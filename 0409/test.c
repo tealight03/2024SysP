@@ -10,7 +10,7 @@ int main(void){
     int* arr = (int*)malloc(10 * sizeof(int));
 
     for (size_t i = 0; i < strlen(str); i++){
-        printf("%zd", i);
+        printf("%zu", i);
     }
 
     int size = sizeof(int);
