@@ -7,4 +7,3 @@ struct student
     int id;
     int score;
 };
-
