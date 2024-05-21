@@ -25,3 +25,6 @@ int main() {
 
 <img src="https://github.com/tealight03/2024SysP/assets/138011998/5d5247d8-afb2-4d9a-a554-37184fce36e0" width="400"><br>
 scanf는 c언어에서 사용자 입력 데이터를 받아오는 함수이다.<br>
+
+<h3><b>Background Process</b></h3>
+<img src="https://github.com/tealight03/2024SysP/assets/138011998/735d76c4-0511-46fa-b42d-658ecb63a9bb" width="400"><br>
